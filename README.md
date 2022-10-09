@@ -9,7 +9,7 @@ This Arkanoid game was implemented as part of an OOP course i took during my bac
 The game contains various levels with increasing difficulty, in a gui friendly platform.
 I implemented the game with Java language using Intellij IDEA Ultimate IDE, using the following OOP principals:
 
-* Polymorphism and inheritance.
-* Usage of basic design patterns in OOP, such as Observer, Builder, etc.
+* Polymorphism and Inheritance.
+* Usage of basic design patterns in OOP, such as Observer, Factory, etc.
 * Usage of several generic collections and data structures such as linked lists and arraylists.
 * Working with GUI.
