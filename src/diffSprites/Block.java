@@ -1,5 +1,4 @@
 package diffSprites;
-// 208968560 Dan Saada
 
 /**
  * @author Dan Saada
