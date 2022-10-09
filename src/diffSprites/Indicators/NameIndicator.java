@@ -1,5 +1,4 @@
 package diffSprites.Indicators;
-// 208968560 Dan Saada
 
 /**
  * @author Dan Saada
