@@ -1,5 +1,3 @@
-// 208968560 Dan Saada
-
 import Levels.LevelInformationFactory;
 import theGame.Game;
 import theGame.GameFlow;
