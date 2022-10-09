@@ -5,11 +5,11 @@ An Arkanoid game as part of an Object Oriented Programing course i took at Bar I
 
  <h1>About </h1>
 
-This project was coded as a 7-part ongoing assignment on the 2nd semester of my 1st year at BIU. This project was coded using a single thread, which is rare for games such as this. Also, it uses no Java GUI Built-In objects, instead, I used a GUI implementation which is included in this repository. I implemented a version of the Arkanoid game, as part of the OOP course i took during my bachelor degree.
+This Arkanoid game was implemented as part of an OOP course i took during my bachelor degree.
 The game contains various levels with increasing difficulty, in a gui friendly platform.
 I implemented the game with Java language using Intellij IDEA Ultimate IDE, using the following OOP principals:
 
-Polymorphism and inheritance.
-Usage of basic design patterns in OOP, such as Observer, Builder, etc.
-Usage of several generic collections and data structures such as linked lists and arraylists.
-Working with GUI.
+*Polymorphism and inheritance.
+*Usage of basic design patterns in OOP, such as Observer, Builder, etc.
+*Usage of several generic collections and data structures such as linked lists and arraylists.
+*Working with GUI.
