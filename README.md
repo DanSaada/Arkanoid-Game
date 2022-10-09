@@ -15,6 +15,7 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 * Working with GUI.
 
 <h1>Instructions </h1>
+
 * Use the 'Left' and 'Right' arrows to control the paddle.
 * Press 'p' to pause.
 * Press 'Space' to re-enter the game.
