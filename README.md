@@ -1,4 +1,5 @@
 # Arkanoid-Game
+
 An Arkanoid game as part of an Object Oriented Programing course i took at Bar Ilan university.
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/112869076/194752772-add97d2f-8789-41fb-a4f1-ef3d8fbc9349.png">
