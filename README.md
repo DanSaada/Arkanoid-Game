@@ -14,6 +14,12 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 * Usage of several generic collections and data structures such as linked lists and arraylists.
 * Working with GUI.
 
+<h1>Design Patterns</h1>
+<h2>Builder Design Pattern</h2>
+
+The Builder design pattern played a pivotal role in this project, facilitating the creation of diverse game objects through a systematic, step-by-step approach. This approach not only enhances flexibility but also simplifies usability by assigning each builder class the task of constructing a particular object. Within our project, builders were harnessed to craft a variety of elements, including balls, blocks, and paddles, fostering a clear and structured development process.
+Embracing this methodology translates into code that is not only more readable but also easier to maintain. Additionally, it streamlines the process of adjusting the properties of each object during its construction, ensuring adaptability and efficiency throughout the development cycle.
+
 <h1>Instructions </h1>
 
 * Use the 'Left' and 'Right' arrows to control the paddle.
